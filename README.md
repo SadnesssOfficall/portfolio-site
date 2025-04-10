@@ -14,7 +14,7 @@ Bu repo, sade ama şık bir **HTML + CSS** portföy sitesidir. Özellikle **graf
 
 ## 📸 Ekran Görüntüsü
 
-![Screenshot]([https://your-screenshot-link.com](https://media.discordapp.net/attachments/1239134190566637639/1359990038632595757/image.png?ex=67f97cec&is=67f82b6c&hm=8f88f7e52b144204e3a8f368b722b4bfab54490e165e729f7f3a5dabd07629bd&=&format=webp&quality=lossless&width=1128&height=590))
+![Screenshot](https://media.discordapp.net/attachments/1239134190566637639/1359990038632595757/image.png?ex=67f97cec&is=67f82b6c&hm=8f88f7e52b144204e3a8f368b722b4bfab54490e165e729f7f3a5dabd07629bd&=&format=webp&quality=lossless&width=1128&height=590)
 
 > ✨ Not: Görseli kendi projenin `/images/` klasörüne ekleyip yukarıdaki linki güncelleyebilirsin.
 
