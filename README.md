@@ -1,4 +1,4 @@
-# 🎨 Ozan Portfolio Website
+# 🎨 Sadness_Officall Portfolio Website
 
 Merhaba! 👋  
 Bu repo, sade ama şık bir **HTML + CSS** portföy sitesidir. Özellikle **grafik tasarımcılar**, **UI/UX uzmanları**, ve **freelancer'lar** için birebir. Minimal ama etkili bir dijital kartvizit 💼✨
@@ -60,4 +60,4 @@ Eğer bir önerin varsa ya da portföyünü birlikte geliştirmek istersen, bana
 
 ---
 
-> Made with ❤️ by [Ozan](https://github.com/sadness_officall)
+> Made with ❤️ by [Sadness_Officall](https://github.com/sadness_officall)
