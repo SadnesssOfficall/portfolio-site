@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: #fff;
+  }
+  
+  header {
+    background: #1e1e1e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    color: #ff007f;
+    font-weight: bold;
+  }
+  
+  nav a {
+    color: #fff;
+    margin-left: 1rem;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #ff007f;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 4rem 2rem;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+  }
+  
+  .hero span {
+    color: #ff007f;
+  }
+  
+  .btn {
+    background: #ff007f;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 30px;
+    margin-top: 1rem;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  section {
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  
+  .services, .portfolio {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  
+  .card, .project {
+    background: #1f1f1f;
+    padding: 1.5rem;
+    border-radius: 10px;
+    width: 200px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+    gap: 1rem;
+  }
+  
+  form input, form textarea {
+    padding: 0.75rem;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  form button {
+    background: #ff007f;
+    color: white;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 30px;
+  }
+  
+  footer {
+    background: #1a1a1a;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+  }
+  
